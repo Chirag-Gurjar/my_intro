@@ -35,6 +35,8 @@ h1{
 }
 .mountain{
    margin-top: 50px;
+   height: 100%;
+   width: 100%;
 }
 
 .skill-row{
