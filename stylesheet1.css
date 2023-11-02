@@ -13,6 +13,8 @@ h1{
 .top-container{
    background-color: #CDF5FD; 
    padding-top: 100px;
+   margin-left: auto;
+   margin-right: auto;
 }
 .bottom-cloud{
    position: absolute;
